@@ -63,7 +63,8 @@
 ```diff
 @@ ---- Funkcje potrzebne do testowania różnych modeli i funkcji straty ------@@
 ```
-![image](https://github.com/Katsukii01/AnimeFaces-AI-model/assets/97676458/0236ca39-46cd-4c8f-82d8-9946bd1e1439)
+![image](https://github.com/Katsukii01/AnimeFaces-AI-model/assets/97676458/4b92f920-3772-4586-b7b6-cc3655f10309)
+
 
 ----------------------------------------------------------------------------------------------------------------
 
