@@ -1,3 +1,8 @@
+```diff
+!! ----- Opis pracy projektowej ------!!
+```
+----------------------------------------------------------------------------------------------------------------
+
 ![image](https://github.com/Katsukii01/AnimeFaces-AI-model/assets/97676458/5bc2ba3e-5d39-4663-aed5-d7715c530b56)
 ```diff
 @@ ----- Import bibliotek ------@@
