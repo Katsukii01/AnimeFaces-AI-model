@@ -58,8 +58,76 @@
 ```
 ![image](https://github.com/Katsukii01/AnimeFaces-AI-model/assets/97676458/bd186222-04d1-401d-bad5-4ae3fd563907)
 
+----------------------------------------------------------------------------------------------------------------
+
+```diff
+@@ ---- Funkcje potrzebne do testowania różnych modeli i funkcji straty ------@@
+```
+![image](https://github.com/Katsukii01/AnimeFaces-AI-model/assets/97676458/0236ca39-46cd-4c8f-82d8-9946bd1e1439)
 
 ----------------------------------------------------------------------------------------------------------------
+
+
+```diff
+@@ ---- Przechodzimy do zautomatyzowanego testu róźnych polecanych funkcji optymalizacyjnych oraz straty ------@@
+```
+![image](https://github.com/Katsukii01/AnimeFaces-AI-model/assets/97676458/5b068d50-e787-47fd-963f-ebe7433a30b4)
+
+![image](https://github.com/Katsukii01/AnimeFaces-AI-model/assets/97676458/9edd3489-a7e0-4e64-8036-8b1a6f42e60f)
+
+----------------------------------------------------------------------------------------------------------------
+
+```diff
+@@ ---- Mamy już wybraną najlepszą funkcje optymalizacji i straty dla naszych danych, więc teraz ręcznie ją skompilujemy i wytrenujemy ------@@
+```
+
+![image](https://github.com/Katsukii01/AnimeFaces-AI-model/assets/97676458/fe3fd828-3dbc-4417-a1ed-d8e25ff07090)
+![image](https://github.com/Katsukii01/AnimeFaces-AI-model/assets/97676458/34dbade6-ac29-4c23-9241-12e368800032)
+
+----------------------------------------------------------------------------------------------------------------
+
+```diff
+@@ ---- Przetestujmy dla przygotowanych zdjęć testowych ------@@
+```
+![image](https://github.com/Katsukii01/AnimeFaces-AI-model/assets/97676458/476855bd-7dbc-4c5b-9210-9f9a8b1a1e95)
+
+
+----------------------------------------------------------------------------------------------------------------
+
+```diff
+@@ ---- Małe podsumowanie szkolenia ------@@
+```
+![image](https://github.com/Katsukii01/AnimeFaces-AI-model/assets/97676458/32b9aab2-5ca7-4ba5-b943-5b0cb3a4c43a)
+
+----------------------------------------------------------------------------------------------------------------
+
+```diff
+@@ ---- Zapiszemy model ------@@
+```
+![image](https://github.com/Katsukii01/AnimeFaces-AI-model/assets/97676458/5f03ab1c-bea2-4c99-9214-3ecc2d30ad1c)
+
+----------------------------------------------------------------------------------------------------------------
+
+```diff
+@@ ----Przgotujemy aplikacje do sprawdzania zdjęć przy jego pomocy, nie normalizujemy zdjęć ponieważ model ma już w sobie warstwę normalizacyjną ------@@
+```
+![image](https://github.com/Katsukii01/AnimeFaces-AI-model/assets/97676458/258d50e4-aeff-483d-bd98-233a8e099be2)
+
+----------------------------------------------------------------------------------------------------------------
+
+```diff
+@@ ----Diałanie aplikacji na przykładach ------@@
+```
+![image](https://github.com/Katsukii01/AnimeFaces-AI-model/assets/97676458/6271ba77-3908-415f-8d5f-565e94952a1c)
+![image](https://github.com/Katsukii01/AnimeFaces-AI-model/assets/97676458/32181099-ba6e-4ebc-96f8-38b4c3aa3933)
+![image](https://github.com/Katsukii01/AnimeFaces-AI-model/assets/97676458/97592484-3f87-4abe-a596-5bfb178fa24a)
+![image](https://github.com/Katsukii01/AnimeFaces-AI-model/assets/97676458/bc4e2bff-d37a-4e15-8c08-04283032252f)
+![image](https://github.com/Katsukii01/AnimeFaces-AI-model/assets/97676458/259a032d-33f5-414e-8a66-76388a75c651)
+
+----------------------------------------------------------------------------------------------------------------
+
+
+
 
 
 
